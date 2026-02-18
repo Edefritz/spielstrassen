@@ -6,7 +6,7 @@ map: true
 
 <section>
 
-## Worum geht es?
+## Worum geht es? 
 
 An ausgewählten Donnerstagen wird die **Körtingstraße** in Berlin-Mariendorf zur Spielstraße: für ein paar Stunden für den Durchgangsverkehr gesperrt, für alle anderen offen: zum Spielen, Verweilen und Kennenlernen. Eine Initiative von Anwohnerinnen und Anwohnern für den ganzen Kiez.
 
