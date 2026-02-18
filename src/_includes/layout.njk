@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} – Spielstraße</title>
+  <link rel="stylesheet" href="/styles.css">
+  {% if map %}
+  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet">
+  {% endif %}
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Spiel- & Nachbarschaftsstraße</h1>
+    <p class="tagline">Initiative für Temporäre Spielstraße & Nachbarschaftsstraße in Mariendorf</p>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <p>Eine Initiative aus der Nachbarschaft</p>
+  </footer>
+
+  {% if map %}
+  <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+  <script src="/map.js"></script>
+  {% endif %}
+
+</body>
+</html>

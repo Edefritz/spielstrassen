@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Spielstrasse Körtingstraße Mariendorf//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spielstraße Körtingstraße
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Temporäre Spielstraße in der Körtingstraße, Berlin-Mariendorf
+BEGIN:VEVENT
+UID:spielstrasse-20260416@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260416T150000
+DTEND;TZID=Europe/Berlin:20260416T180000
+END:VEVENT
+BEGIN:VEVENT
+UID:spielstrasse-20260423@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260423T150000
+DTEND;TZID=Europe/Berlin:20260423T180000
+END:VEVENT
+BEGIN:VEVENT
+UID:spielstrasse-20260430@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260430T150000
+DTEND;TZID=Europe/Berlin:20260430T180000
+END:VEVENT
+BEGIN:VEVENT
+UID:spielstrasse-20260507@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260507T150000
+DTEND;TZID=Europe/Berlin:20260507T180000
+END:VEVENT
+BEGIN:VEVENT
+UID:spielstrasse-20260514@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260514T150000
+DTEND;TZID=Europe/Berlin:20260514T180000
+END:VEVENT
+BEGIN:VEVENT
+UID:spielstrasse-20260521@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260521T150000
+DTEND;TZID=Europe/Berlin:20260521T180000
+END:VEVENT
+BEGIN:VEVENT
+UID:spielstrasse-20260528@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260528T150000
+DTEND;TZID=Europe/Berlin:20260528T180000
+END:VEVENT
+BEGIN:VEVENT
+UID:spielstrasse-20260604@koertingstrasse
+SUMMARY:Spielstraße Körtingstraße
+DESCRIPTION:Die Körtingstraße ist heute von 15–18 Uhr für den Autoverkehr gesperrt. Umfahrung über den Hirzerweg möglich.
+LOCATION:Körtingstraße\, Berlin-Mariendorf (zwischen Fritz-Werner-Str. und Hirzerweg)
+DTSTART;TZID=Europe/Berlin:20260604T150000
+DTEND;TZID=Europe/Berlin:20260604T180000
+END:VEVENT
+END:VCALENDAR
