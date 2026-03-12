@@ -10,7 +10,9 @@ map: true
 
 An ausgewählten Donnerstagen wird die **Körtingstraße** in Berlin-Mariendorf zur Spielstraße: für ein paar Stunden für den Durchgangsverkehr gesperrt, für alle anderen offen: zum Spielen, Verweilen und Kennenlernen. Eine Initiative von Anwohnerinnen und Anwohnern für den ganzen Kiez.
 
-<div class="poster"></div>
+<figure>
+  <img src="{{ '/images/poster.webp' | url }}" alt="Spielstraße Körtingstraße">
+</figure>
 
 
 </section>
@@ -36,7 +38,7 @@ Mehr Informationen zum berlinweiten Netzwerk gibt es auf [spielstrassen.de](http
 
 ## Warum hier bei uns?
 
-Die **Körtingstraße** liegt direkt vor der **Ikarus Grundschule** und bietet Schülerinnen und Schülern nach Unterrichtsschluss eine gute Gelegenheit, noch draußen zu spielen, bevor es nach Hause geht. Gleichzeitig ist die Straße eine typische Wohnstraße, in der viele Familien leben, aber kaum Platz zum Spielen oder Treffen bleibt.
+Die **Körtingstraße** liegt direkt vor der **Ikarus-Grundschule** und bietet Schülerinnen und Schülern nach Unterrichtsschluss eine gute Gelegenheit, noch draußen zu spielen, bevor es nach Hause geht. Gleichzeitig ist die Straße eine typische Wohnstraße, in der viele Familien leben, aber kaum Platz zum Spielen oder Treffen bleibt.
 
 Die Spielstraße schafft genau das: ein paar Stunden im Monat, an denen der Kiez zusammenkommt.
 
