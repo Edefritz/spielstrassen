@@ -38,9 +38,9 @@ Mehr Informationen zum berlinweiten Netzwerk gibt es auf [spielstrassen.de](http
 
 ## Warum hier bei uns?
 
-Die **Körtingstraße** liegt direkt vor der **Ikarus-Grundschule** und bietet Schülerinnen und Schülern nach Unterrichtsschluss eine gute Gelegenheit, noch draußen zu spielen, bevor es nach Hause geht. Gleichzeitig ist die Straße eine typische Wohnstraße, in der viele Familien leben, aber kaum Platz zum Spielen oder Treffen bleibt.
+Die **Körtingstraße** liegt direkt vor der **Ikarus-Grundschule** und ist Teil eines Wohngebiets mit vielen unterschiedlichen Bewohnerinnen und Bewohnern. Dennoch fehlt es im direkten Umfeld an Orten, an denen man sich ungezwungen im öffentlichen Raum aufhalten kann. Straßen sind hier meist vom Verkehr geprägt, während Plätze zum Spielen, Verweilen oder für nachbarschaftliche Begegnungen kaum vorhanden sind, auch niedrigschwellige Treffpunkte wie Cafés oder kleine Geschäfte fehlen weitgehend.
 
-Die Spielstraße schafft genau das: ein paar Stunden im Monat, an denen der Kiez zusammenkommt.
+Eine temporäre Spielstraße schafft genau diesen Raum: Sie gibt Kindern die Möglichkeit, sich draußen zu bewegen, und öffnet zugleich einen Ort für alle im Kiez, um sich zu treffen, ins Gespräch zu kommen und Gemeinschaft zu erleben, zumindest für ein paar Stunden im Monat.
 
 </section>
 
@@ -61,7 +61,7 @@ Die Straße ist jeweils **donnerstags von 15:00 bis 18:00 Uhr** für den Autover
   <li>📅 Donnerstag, 4. Juni 2026</li>
 </ul>
 
-Bitte plant das beim Parken ein. Wer sein Auto noch rechtzeitig wegstellen möchte, ist herzlich willkommen und darf natürlich auch bleiben. Die Zufahrt für Einsatzfahrzeuge ist während der gesamten Sperrung jederzeit gewährleistet.
+Bitte plant das beim Parken ein. Wer sein Auto noch rechtzeitig wegstellen möchte, ist herzlich willkommen und darf natürlich auch bleiben. Die Zufahrt für Einsatzfahrzeuge und mobilitätseingeschränkte Personen ist während der gesamten Sperrung jederzeit gewährleistet.
 
 <div class="calendar-links">
   <a href="/spielstrasse.ics" class="cal-button" download>⬇ Alle Termine herunterladen (.ics)</a>
