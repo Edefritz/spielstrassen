@@ -90,3 +90,13 @@ Hast du Fragen, Ideen oder Lust mitzuhelfen? Wir freuen uns über jede Unterstü
 </div>
 
 </section>
+
+## Förderung
+
+Wir bedanken uns bei der Regionalkasse Tempelhof-Schöneberg für die Förderung.
+
+<figure>
+  <img src="{{ '/images/aufkleber_regionalkasse.webp' | url }}" alt="Regionalkasse">
+</figure>
+
+  <img src="{{ '/images/berlin.png' | url }}" alt="Logo Berlin">
