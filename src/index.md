@@ -6,6 +6,22 @@ map: true
 
 <section>
 
+## Aktuelles
+
+### 13. Mai 2026
+
+Liebe Kinder, liebe Erwachsene und Freunde der Spielstraße,
+
+wir haben hin und her überlegt und schließlich entschieden, dass die Spielstraße, am <strong>14. Mai</strong>, aufgrund der schlechten Wetterbedingungen und des Feiertags <strong>leider ausfallen</strong> wird.
+
+Wir freuen uns aber schon sehr, euch in der nächsten Woche wiederzusehen.
+
+Euer Spielstraßenteam
+
+</section>
+
+<section>
+
 ## Worum geht es? 
 
 An ausgewählten Donnerstagen wird die **Körtingstraße** in Berlin-Mariendorf zur Spielstraße: für ein paar Stunden für den Durchgangsverkehr gesperrt, für alle anderen offen: zum Spielen, Verweilen und Kennenlernen. Eine Initiative von Anwohnerinnen und Anwohnern für den ganzen Kiez.
@@ -48,14 +64,14 @@ Eine temporäre Spielstraße schafft genau diesen Raum: Sie gibt Kindern die Mö
 
 ## Termine
 
-Die Straße ist jeweils **donnerstags von 15:00 bis 18:00 Uhr** für den Autoverkehr gesperrt:
+Die Straße ist jeweils **donnerstags von 14:00 bis 18:00 Uhr** für den Autoverkehr gesperrt:
 
 <ul class="dates">
   <li>📅 Donnerstag, 16. April 2026</li>
   <li>📅 Donnerstag, 23. April 2026</li>
   <li>📅 Donnerstag, 30. April 2026</li>
   <li>📅 Donnerstag, 7. Mai 2026</li>
-  <li>📅 Donnerstag, 14. Mai 2026</li>
+  <li>📅 <s>Donnerstag, 14. Mai 2026</s> (fällt aus)</li>
   <li>📅 Donnerstag, 21. Mai 2026</li>
   <li>📅 Donnerstag, 28. Mai 2026</li>
   <li>📅 Donnerstag, 4. Juni 2026</li>
